@@ -58,19 +58,6 @@ I'm a Computer Science Engineering student (2023–2027) at Dr. N.G.P. Institute
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ASVITHA26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASVITHA26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ASVITHA26&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD"/>
-</p>
-
----
-
 ### 🌱 Currently Learning
 ```text
 🧱 AI & Vector Search        → MongoDB, embeddings
