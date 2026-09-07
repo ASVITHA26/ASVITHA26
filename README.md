@@ -52,9 +52,10 @@ I'm a Computer Science Engineering student (2023–2027) at Dr. N.G.P. Institute
 | Project | Stack | Highlights |
 |---|---|---|
 | **[Bank Locker Management System](https://github.com/ASVITHA26/Bank-Locker-Management-System)** | HTML, CSS, JS, PHP, MySQL, XAMPP | Streamlined locker allocation & customer registration with full CRUD |
-| **E-Waste Management System** | HTML, CSS, JS, Node.js, MongoDB | Doorstep e-waste pickup scheduling with disposal-status tracking |
-| **Digital Notice Board System** | HTML, CSS, JS, Node.js, MongoDB, Android Studio | IoT-connected remote notice publishing with real-time display |
-| **Smart Waste Segregation Compliance Monitoring System** | HTML, CSS, JS, Node.js, MongoDB, Android Studio | QR-based tracking, automated violation warnings, admin dashboard |
+| **[E-Waste Management System](https://github.com/ASVITHA26/E-waste-management-system)** | HTML, CSS, JS, Node.js, MongoDB | Doorstep e-waste pickup scheduling with disposal-status tracking |
+| **[Digital Notice Board System](https://github.com/ASVITHA26/DIGITAL_NOTICEBOARD)** | HTML, CSS, JS, Node.js, MongoDB, Android Studio | IoT-connected remote notice publishing with real-time display |
+| **[Smart Waste Segregation Compliance Monitoring System](https://github.com/ASVITHA26/SMART-WASTE-SEGREGATION-COMPLIANCE-MONITORING-SYSTEM)** | HTML, CSS, JS, Node.js, MongoDB, Android Studio | QR-based tracking, automated violation warnings, admin dashboard |
+| **[Online Canteen Order Management](https://github.com/ASVITHA26/online-canteen-order-management)** | HTML, CSS, JS, Node.js, MongoDB | Online ordering system for canteen management |
 
 ---
 
