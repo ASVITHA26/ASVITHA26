@@ -10,18 +10,7 @@
 
 ### 🧭 About Me
 
-```text
-const asvitha = {
-    role: "CSE Undergraduate (2023–2027)",
-    college: "Dr. N.G.P. Institute of Technology, Coimbatore",
-    languages: ["Java", "JavaScript", "PHP"],
-    interests: ["Web Development", "Database Systems", "IoT"],
-    currentlyExploring: ["AI & Vector Search", "Computer Vision"],
-    funFact: "Turns everyday problems — bank lockers, waste sorting — into working apps"
-};
-```
-
-I'm an entry-level software developer looking to apply my skills in real-world projects. I enjoy building complete web applications — from responsive front ends to database-backed back ends — and I've recently been extending that into IoT-connected systems.
+I'm a Computer Science Engineering student (2023–2027) at Dr. N.G.P. Institute of Technology, Coimbatore, looking for an entry-level opportunity to apply my skills in real-world projects. I enjoy building complete web applications — from responsive front ends to database-backed back ends — and I've recently been extending that into IoT-connected systems. Currently exploring AI & vector search and computer vision.
 
 ---
 
@@ -69,21 +58,16 @@ I'm an entry-level software developer looking to apply my skills in real-world p
 
 ---
 
-### 🎓 Education
+### 📊 GitHub Stats
 
-| Degree | Institution | Years | Score |
-|---|---|---|---|
-| B.E. Computer Science & Engineering | Dr. N.G.P. Institute of Technology, Coimbatore | 2023 – 2027 | CGPA 7.78/10 |
-| Higher Secondary Certificate | Kannammal National Matric Higher Secondary School | 2022 – 2023 | 74% |
-| SSLC | Kannammal National Matric Higher Secondary School | 2020 – 2021 | — |
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ASVITHA26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASVITHA26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</p>
 
----
-
-### 📜 Certifications
-
-- **NPTEL** — Cloud Computing, Internet of Things
-- **MATLAB Onramp** — Computer Vision, Deep Learning, Machine Learning
-- **MongoDB** — Introduction to AI and Vector Search
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ASVITHA26&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD"/>
+</p>
 
 ---
 
